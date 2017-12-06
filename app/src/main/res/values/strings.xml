@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenUnidadIVExamenUNO</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="opcion1">Generar</string>
+    <string name="opcion2" >Detener</string>
+    <string name="opcion3"></string>
+
+</resources>
